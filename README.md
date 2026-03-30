@@ -3,7 +3,7 @@ This Time Series Anomaly detection project mainly focuses on Energy sector datas
 
 The project is done under the guidance of Professor Ye Zhu, Senior Lecturer of Computer Science - School of Information Technology, Deakin University, Australia.
 
-We used the models TadGAN (Time Series Anomaly Detection) and AER (Auto Encoder with Regression) for this task. Both the models are from ["Orion Library" of Data to AI Lab, of MIT](https://github.com/sintel-dev/Orion). In the project, at first we reproduced the model results on the datasets given in research papers, then we benchmarked them on various labelled energy sector datasets and also did extensive Hyper-parameter Sensitivity analysis.
+We used the models TadGAN (Time Series Anomaly Detection) and AER (Auto Encoder with Regression) for this task. Both the models are from ["Orion Library" of Data to AI Lab, of MIT](https://github.com/sintel-dev/Orion). In the project, at first we reproduced the model results on the datasets given in research papers, then we benchmarked them on various labelled energy sector datasets and also did extensive Hyper-parameter Sensitivity analysis. You can find our paper here: https://zenodo.org/records/19339214.
 
 We explored the following datasets for our experiments:
 
